@@ -1,0 +1,29 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "- Configurar del servidor de aplicaciones\r    - Instalar Hapi",
+  "main": "server.js",
+  "dependencies": {
+    "co": "^4.6.0",
+    "hapi": "^16.4.3",
+    "inert": "^4.2.1",
+    "mssql": "^4.0.4",
+    "node-windows": "^1.0.0-beta.6",
+    "nvm": "^0.0.4",
+    "require-dir": "^0.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/respeletaDev/workShop.git"
+  },
+  "author": "RLEP",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/respeletaDev/workShop/issues"
+  },
+  "homepage": "https://github.com/respeletaDev/workShop#readme"
+}
