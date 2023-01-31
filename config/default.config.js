@@ -1,7 +1,7 @@
 var config = {
   db: {
-    user: 'API_CITAS_NODE',
-    password: 'API_CITAS_NODE',
+    user: '',
+    password: '',
     server: '',
     database: ''
   },
