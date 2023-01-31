@@ -2,12 +2,12 @@ var config = {
   db: {
     user: 'API_CITAS_NODE',
     password: 'API_CITAS_NODE',
-    server: 'data.caminosips.com',
-    database: 'SIOS_NUEVO'
+    server: '',
+    database: ''
   },
   credenciales: {
-    usuario: 'caminosips',
-    clave: 'Bhu8Nji9Mko0'
+    usuario: '',
+    clave: ''
   },
   elasticsearch: {
     host: 'locahost:9200',
@@ -16,7 +16,7 @@ var config = {
   },
   application: {
     port: 8023,
-    title: 'Tiserium WebApi'
+    title: 'WebApi'
   }
 };
 
